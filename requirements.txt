@@ -1,0 +1,2 @@
+openai==1.42.0  # Replace with the actual version if needed
+pydub==0.25.1   # Replace with the latest version if needed
