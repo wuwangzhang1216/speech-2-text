@@ -75,7 +75,3 @@ For example, if you have an audio file `example.mp3` in the `voice_files` direct
 - **Error: FFmpeg not found**: If you see an error message saying `Couldn't find ffmpeg`, ensure that FFmpeg is installed and properly added to your system’s PATH.
 - **Transcription Errors**: If transcription fails, ensure the file is under 25MB. If the file is larger, the script will automatically split the file into smaller chunks for processing.
 - **API Errors**: Ensure you are using a valid OpenAI API key and have sufficient quota available for API calls.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
